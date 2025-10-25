@@ -25,9 +25,9 @@ A .NET 9 Web API for retrieving employee status information with advanced featur
 
 ### Running the Application
 
-1. **Clone the repository** (or navigate to the project directory):
+1. **Clone the repository**
    ```powershell
-   cd f:\Estarta-coding-assessment
+   git clone https://github.com/Zeyad-Diaa12/Estarta-coding-assessment.git
    ```
 
 2. **Start all services with Docker Compose**:
