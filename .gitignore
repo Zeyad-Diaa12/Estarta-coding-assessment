@@ -1,0 +1,36 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.cache
+*.log
+*.dll
+*.exe
+*.pdb
+
+## Docker
+.dockerignore
+
+## IDE
+.idea/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+logs/
+*.log
+
+## Backups
+backups/
+
+## Temporary files
+tmp/
+temp/
